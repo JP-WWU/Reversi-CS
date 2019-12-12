@@ -1,0 +1,11 @@
+C:\Users\Jeff\source\repos\Reversi\obj\Debug\netcoreapp3.0\Reversi.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\Reversi\obj\Debug\netcoreapp3.0\Reversi.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\Reversi\bin\Debug\netcoreapp3.0\Reversi.exe
+C:\Users\Jeff\source\repos\Reversi\bin\Debug\netcoreapp3.0\Reversi.deps.json
+C:\Users\Jeff\source\repos\Reversi\bin\Debug\netcoreapp3.0\Reversi.runtimeconfig.json
+C:\Users\Jeff\source\repos\Reversi\bin\Debug\netcoreapp3.0\Reversi.runtimeconfig.dev.json
+C:\Users\Jeff\source\repos\Reversi\bin\Debug\netcoreapp3.0\Reversi.dll
+C:\Users\Jeff\source\repos\Reversi\bin\Debug\netcoreapp3.0\Reversi.pdb
+C:\Users\Jeff\source\repos\Reversi\obj\Debug\netcoreapp3.0\Reversi.dll
+C:\Users\Jeff\source\repos\Reversi\obj\Debug\netcoreapp3.0\Reversi.pdb
+C:\Users\Jeff\source\repos\Reversi\obj\Debug\netcoreapp3.0\Reversi.csprojAssemblyReference.cache
